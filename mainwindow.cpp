@@ -10,8 +10,6 @@ MainWindow::MainWindow(QWidget *parent)
     ui->currency_out->clear();
     QString line="01/06/2021";
     get_url(line);
-
-
 }
 
 MainWindow::~MainWindow()

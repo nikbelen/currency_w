@@ -61,4 +61,5 @@ QString Helper::parseOneItem(QXmlStreamReader &xml){
         xml.readNext();
     }
     return s;
+
 }
