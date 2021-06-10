@@ -1,4 +1,6 @@
+# Индивидуальный проект по курсу "Основы информатики и программирования"
 "Курсы Валют" - приложение для вывода курсов валют на запрошенную пользователем дату. Использует xml-сервис Банка России.
+
 [Отчет](https://github.com/nikbelen/currency_w/blob/main/docs/report.pdf) 
 
 [Презентация](https://github.com/nikbelen/currency_w/blob/main/docs/report_pres.pdf) 
