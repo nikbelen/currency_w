@@ -44,5 +44,4 @@ void MainWindow::replyFinished(QNetworkReply *reply)
     QXmlStreamReader xml(reply);
     QStringList values = helper.parseXml(xml);
     ui->currency_out->addItems(values);
-
 }
